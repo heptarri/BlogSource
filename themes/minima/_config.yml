@@ -1,0 +1,59 @@
+#title in header
+title: "Parolluvia's Inn."
+
+#main info
+#owner
+owner: "I am Parolluvia."
+email: qingdkj@outlook.com
+info: "A student and programming lover from China."
+#description
+desc: "This is the Inn of Parolluvia, where weary travelers find their rest.
+        Here I write of how I live, and of some opinions that I say.
+        I hope you like my words, as I like the scenery here so well."
+
+#menu
+menu:
+  Works: /archives
+  About: /about
+
+#index/main page max show posts (in number)
+max_post: 7
+
+# Colors use hex color without #
+# Theme color
+tcolor: C9CBDA
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: https://en.wikipedia.org/wiki/Chengdu
+# placelink: https://en.wikipedia.org/wiki/Earth
+github: https://github.com/qingdkj
+# linkedin: https://linkedin.com/in/adisaktijrs
+twitter: https://twitter.com/Ohnmachesya
+instagram: https://www.instagram.com/parolluvia/
+# stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# Picture enlargement
+picjs: /js/pic.min.js
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: false
+disqus_shortname: https-qingdkj-github-io
