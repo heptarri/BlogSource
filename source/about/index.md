@@ -33,6 +33,6 @@ date: 2024-02-08 17:08:37
 
 最后，附上自己的联系方式：
 
-邮箱： [qingdkj@outlook.com](mailto: qingdkj@outlook.com)
+邮箱： [qingdkj@outlook.com]
 
 GitHub: [Parolluvia(qingdkj)](https://github.com/qingdkj)
