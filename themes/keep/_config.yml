@@ -37,7 +37,7 @@ menu:
   # Tags: /tags
   # Categories: /categories
   Links: /links
-  RSS: http://localhost:4000/atom.xml
+  RSS: https://blog.parolluvia.ink/atom.xml
   About: /about
   # GitHub: https://github.com/qingdkj
   # Email: mailto:qingdkj@outlook.com
