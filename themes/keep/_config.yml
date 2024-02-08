@@ -140,7 +140,7 @@ post:
   datetime_format: "YYYY-MM-DD HH:mm:ss"  # Datetime format. e.g. "YYYY-MM-DD HH:mm:ss"
 
   # Post copyright info
-  copyright_info: false  # Option values: true | false
+  copyright_info: true  # Option values: true | false
 
   # Post share
   share: false           # Option values: true | false
@@ -336,11 +336,11 @@ footer:
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/inject.html
 # ---------------------------------------------------------------------------------------
 inject:
-  enable: false  # Option values: true | false
+  enable: true  # Option values: true | false
   css:
     -
     # e.g.
-    # - /css/custom-1.css
+    - /css/custom.css
     # - /css/custom-2.css
     # - ...
   js:

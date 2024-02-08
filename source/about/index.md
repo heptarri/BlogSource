@@ -1,6 +1,8 @@
 ---
 title: about
 date: 2024-02-08 17:08:37
+page_cover: https://s2.loli.net/2024/02/08/iCncju5LIHmWaYf.png
+page_cover_height: 300
 ---
 
 已经记不清这是第几次写 About 了。
