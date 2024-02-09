@@ -349,3 +349,4 @@ inject:
     # - /js/custom-1.js
     # - /js/custom-2.js
     # - ...
+    - /_vercel/insights/script.js
