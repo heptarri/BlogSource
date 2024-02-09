@@ -350,3 +350,4 @@ inject:
     # - /js/custom-2.js
     # - ...
     - /_vercel/insights/script.js
+    - /_vercel/speed-insights/script.js
