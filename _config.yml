@@ -5,7 +5,7 @@
 # Site
 title: Parolluvia's Inn
 subtitle: 'Just record how I live.'
-description: "A blog, about technology and life."
+description: "Just record how I live."
 keywords: Technology, Blog, Parolluvia, qingdkj, Ohnmaches, Minecraft, OI, Computer
 author: Parolluvia
 language: zh-CN
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: keep
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -111,3 +111,9 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
