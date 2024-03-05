@@ -9,6 +9,7 @@ nav:
 
 # Menu 目錄
 menu:
+  『空空の小站』: https://parolluvia.notion.site/3842332d9a844cf79e3da8a7952d3d31 || fa-solid fa-store
   首页: / || fas fa-home  
   归档: /archives/ || fas fa-archive
   # Tags: /tags/ || fas fa-tags
