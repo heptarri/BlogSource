@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Parolluvia's Inn
+title: Heptari's Inn
 subtitle: 'Just record how I live.'
 description: "Just record how I live."
-keywords: Technology, Blog, Parolluvia, qingdkj, Ohnmaches, Minecraft, OI, Computer
-author: Parolluvia
-language: zh-CN
+keywords: Technology, Blog, Heptari, Heptarri, Heptarri, Parolluvia, qingdkj, Ohnmaches, Minecraft, OI, Computer
+author: Heptari
+language: en
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.parolluvia.ink
+url: https://heptari.uk
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -96,13 +96,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: minima
+theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/qingdkj/my-blog
+  repo: https://github.com/heptarri/heptarri.github.io
   branch: main
 
 # Feed Atom

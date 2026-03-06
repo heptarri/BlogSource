@@ -1,0 +1,12 @@
+[
+    {
+        "name":"CHU_Racing Driveless System v2",
+        "url":"https://github.com/heptarri/CHU_Autodriving_v2",
+        "desc":"The second generatoin driveless system for the CHU formula racing team."
+    },
+    {
+        "name":"Spark Store",
+        "url":"https://www.spark-app.store",
+        "desc":"A third-party app store for Deepin OS or Linux base on Debian."
+    }
+]
