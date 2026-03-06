@@ -1,13 +1,13 @@
 #title in header
-title: "Parolluvia's Inn."
+title: "Heptari's Inn."
 
 #main info
 #owner
-owner: "I am Parolluvia."
-email: qingdkj@outlook.com
-info: "A student and programming lover from China."
+owner: "I am Hepari."
+email: heptari@outlook.com
+info: "A student learning in Chang'an Univ. majoring in robotica."
 #description
-desc: "This is the Inn of Parolluvia, where weary travelers find their rest.
+desc: "This is the Inn of Heptari, where weary travelers find their rest.
         Here I write of how I live, and of some opinions that I say.
         I hope you like my words, as I like the scenery here so well."
 
@@ -32,10 +32,10 @@ usercss: css/user.css
 footer: true
 placename: https://en.wikipedia.org/wiki/Chengdu
 # placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/qingdkj
+github: https://github.com/heptarri
 # linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/Ohnmachesya
-instagram: https://www.instagram.com/parolluvia/
+# twitter: https://twitter.com/Ohnmachesya
+# instagram: https://www.instagram.com/parolluvia/
 # stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
 
 # Misc
